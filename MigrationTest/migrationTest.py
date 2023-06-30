@@ -6,7 +6,7 @@ from MigrationTest.dummy_data_generator import DummyDataGenerator
 from MigrationTest.sqlite_connection import SQLiteConnection
 from MigrationTest.tinydb_connection import TinyDBConnection
 import pandas as pd
-from pandas_profiling import ProfileReport
+from ydata_profiling import ProfileReport
 
 
 
